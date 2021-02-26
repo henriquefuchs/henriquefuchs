@@ -2,5 +2,5 @@
 
 ---
 
-I'm studying Software Engerineering at PUCPR
+I am a Software Engerineering Student, always learning.
 
